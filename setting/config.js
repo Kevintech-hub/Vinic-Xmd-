@@ -33,7 +33,7 @@ global.autobio = false;
 global.chatbot = false;
 global.autoTyping = false;
 global.autorecording = false;
-global.prefa = ['', '!', '.', ',', '🐤', '🦦'];
+global.prefa = ['', '!', '.', ',', '🖕', '🦦'];
 
 // ========= Anti-Delete Feature ========= //
 global.antidelete = true; // Set to false to disable anti-delete feature
@@ -43,7 +43,7 @@ global.welcome = true; // welcome setting
 global.adminevent = true; // admin event setting
 
 // ========= Add modeStatus and versions ========= //
-global.modeStatus = "Public"; // Added for connection notice
+global.modeStatus = "Private"; // Added for connection notice
 global.versions = "1.2.5"; // Added for connection notice
 
 // ========= Setting WM ========= //

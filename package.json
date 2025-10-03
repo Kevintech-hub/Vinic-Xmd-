@@ -3,7 +3,7 @@
     "version": "1.3.4",
     "description": "up",
     "main": "index.js",
-    "type": "commonjs",
+    "type": "module",
     "scripts": {
         "start": "node index.js"
     },

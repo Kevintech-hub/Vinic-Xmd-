@@ -1,9 +1,9 @@
 {
     "name": "Vinic-Xmd",
-    "version": "1.3.3",
+    "version": "1.3.5",
     "description": "up",
     "main": "index.js",
-    "type": "commonjs",
+    "type": "module",
     "scripts": {
         "start": "node index.js"
     },

@@ -1,9 +1,9 @@
 {
     "name": "Vinic-Xmd",
-    "version": "1.3.4",
+    "version": "1.3.3",
     "description": "up",
     "main": "index.js",
-    "type": "module",
+    "type": "commonjs",
     "scripts": {
         "start": "node index.js"
     },
@@ -22,11 +22,10 @@
         "@hapi/boom": "^10.0.0", 
         "adm-zip": "^0.5.16",
         "jimp": "*",
-        "@whiskeysockets/baileys": "npm:@rexxhayanasi/elaina-bail",
+        "@whiskeysockets/baileys": "github:XdKing2/Malvin-Baileys",
         "acrcloud": "^1.4.0",
         "awesome-phonenumber": "^2.70.0",
         "chalk": "^4.1.2",
-        "acrcloud": "^1.4.0",
         "cheerio": "^1.0.0-rc.12",  
         "child_process": "^1.0.2",
         "colors": "latest",
@@ -63,13 +62,15 @@
         "qrcode-terminal": "^0.12.0",
         "readline": "^1.3.0",
         "request": "^2.88.2",
-        "sharp": "^0.34.1",
+        "sharp": "^0.32.6",
         "soundcloud-downloader": "^1.0.0",
         "steno": "^1.0.0",
         "stream": "^0.0.3",
         "util": "^0.12.4",
         "wa-sticker-formatter": "^4.4.4",
         "yargs": "^17.2.1",
-        "yt-search": "^2.10.4"
+        "yt-search": "^2.10.4",
+        "better-sqlite3": "npm:libsql@0.5.12",
+        "sqlite3": "^5.1.7"
     }
 }

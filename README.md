@@ -38,13 +38,13 @@ src="https://i.ibb.co/XkNgFfrf/malvin-xd.jpg?">
 _Deploy the bot and easily connect it to your WhatsApp account by pair code. Bellow🥈_
 
 <div align="left">
-  <a href="https://starcore-pairing.onrender.com/pair" target="_blank">
+  <a href="https://starcore-pair.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Server%20One-green?style=for-the-badge" alt="PAIR CODE"/>
   </a>
 </div>
 
 <div align="left">
-  <a href="https://starxd-pair.onrender.com/pair" target="_blank">
+  <a href="https://starcore-pair.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Server%20Two-darkgreen?style=for-the-badge" alt="PAIR CODE"/>
   </a>
 </div>

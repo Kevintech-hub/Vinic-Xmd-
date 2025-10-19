@@ -3,7 +3,7 @@
     "version": "1.3.3",
     "description": "WhatsApp Bot optimized for cloud deployment",
     "main": "index.js",
-    "type": "commonjs",
+    "type": "module",
     "scripts": {
         "start": "node index.js",
         "dev": "NODE_ENV=development node index.js",

@@ -44,7 +44,7 @@ _Deploy the bot and easily connect it to your WhatsApp account by pair code. Bel
 </div>
 
 <div align="left">
-  <a href="https://vinici-pair.vercel.app/" target="_blank">
+  <a href="https://vinic-xmd-pairing-site-pd0d.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Server%20Two-darkgreen?style=for-the-badge" alt="PAIR CODE"/>
   </a>
 </div>

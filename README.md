@@ -1,7 +1,7 @@
 
 
 <img align="center" height="auto"
-src="https://i.ibb.co/XkNgFfrf/malvin-xd.jpg?">
+src="https://files.catbox.moe/ccvwdi.jpg">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=V+I+N+I+C+💯+▇)](https://git.io/typing-svg)
 <br>
@@ -38,13 +38,13 @@ src="https://i.ibb.co/XkNgFfrf/malvin-xd.jpg?">
 _Deploy the bot and easily connect it to your WhatsApp account by pair code. Bellow🥈_
 
 <div align="left">
-  <a href="https://starcore-pair.vercel.app/" target="_blank">
+  <a href="https://vinic-xmd-pairing-site-n57t.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Server%20One-green?style=for-the-badge" alt="PAIR CODE"/>
   </a>
 </div>
 
 <div align="left">
-  <a href="https://starcore-pair.vercel.app/" target="_blank">
+  <a href="https://vinic-xmd-pairing-site-n57t.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Server%20Two-darkgreen?style=for-the-badge" alt="PAIR CODE"/>
   </a>
 </div>

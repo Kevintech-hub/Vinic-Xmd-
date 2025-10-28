@@ -31,25 +31,26 @@ src="https://files.catbox.moe/ccvwdi.jpg">
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-
-## 🛠️ `BOT INSTALATION`
-> 2: **Get Ssession id Pair Code**
-
-_Deploy the bot and easily connect it to your WhatsApp account by pair code. Bellow🥈_
-
-<div align="left">
-  <a href="https://vinici-pair.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Server%20One-green?style=for-the-badge" alt="PAIR CODE"/>
-  </a>
+<div class="links-section" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; color: white;">
+  <h3 style="color: #fff; text-align: center; margin-bottom: 20px;">🔗 Important Links</h3>
+  <div class="link-item" style="background: rgba(255,255,255,0.2); padding: 12px; margin: 10px 0; border-radius: 8px;">
+    <strong style="color: #ffeb3b;">📱 Session ID:</strong>
+    <a href="https://vinic-pairing-site.onrender.com/" target="_blank" style="color: #4fc3f7; text-decoration: none; margin-left: 10px;">Get Session ID</a>
+  </div>
+  <div class="link-item" style="background: rgba(255,255,255,0.2); padding: 12px; margin: 10px 0; border-radius: 8px;">
+    <strong style="color: #ffeb3b;">📢 WhatsApp Channel:</strong>
+    <a href="https://whatsapp.com/channel/0029Vb7VdNbIXnlhBiFjrt1B" target="_blank" style="color: #4fc3f7; text-decoration: none; margin-left: 10px;">Join our WhatsApp Channel</a>
+  </div>
+  <div class="link-item" style="background: rgba(255,255,255,0.2); padding: 12px; margin: 10px 0; border-radius: 8px;">
+    <strong style="color: #ffeb3b;">👥 WhatsApp Group:</strong>
+    <a href="https://chat.whatsapp.com/Lpg0aGi5Ar4Iy9Ix2wHgnN?mode=wwt" target="_blank" style="color: #4fc3f7; text-decoration: none; margin-left: 10px;">Join WhatsApp Group</a>
+  </div>
+  <div class="link-item" style="background: rgba(255,255,255,0.2); padding: 12px; margin: 10px 0; border-radius: 8px;">
+    <strong style="color: #ffeb3b;">💬 Telegram Support:</strong>
+    <a href="https://t.me/+ilRbENNCnN8wOWNk" target="_blank" style="color: #4fc3f7; text-decoration: none; margin-left: 10px;">Get Support on Telegram</a>
+  </div>
 </div>
 
-<div align="left">
-  <a href="https://vinic-xmd-pairing-site-pd0d.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Server%20Two-darkgreen?style=for-the-badge" alt="PAIR CODE"/>
-  </a>
-</div>
-
-> 📥 Quickly connect your WhatsApp by generating a secure pairing code: if inbuilt pairing not working...
 
 
 ### 🚀 Fork the Repository

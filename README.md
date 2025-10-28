@@ -31,46 +31,51 @@ src="https://files.catbox.moe/ccvwdi.jpg">
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-<div class="readme-section" style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0;">
-  <h2 style="color: #ff6b6b; text-align: center; margin-bottom: 20px; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">Vinic-Xmd important links.</h2>
-  
-  <div class="step" style="background: white; padding: 15px; margin: 15px 0; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h3 style="color: #333; margin-bottom: 10px;">1. GET SESSION ID</h3>
-    <a href="https://vinic-pairing-site.onrender.com/" target="_blank">
-      <button style="background: transparent; color: #28a745; border: 2px solid #28a745; padding: 8px 15px; border-radius: 5px; cursor: pointer; width: 100px; font-weight: bold; transition: all 0.3s;">
-        PAIR
-      </button>
-    </a>
-  </div>
-  
-  <div class="step" style="background: white; padding: 15px; margin: 15px 0; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h3 style="color: #333; margin-bottom: 10px;">2. JOIN WHATSAPP CHANNEL</h3>
-    <a href="https://whatsapp.com/channel/0029Vb7VdNbIXnlhBiFjrt1B" target="_blank">
-      <button style="background: transparent; color: #25D366; border: 2px solid #25D366; padding: 8px 15px; border-radius: 5px; cursor: pointer; width: 100px; font-weight: bold; transition: all 0.3s;">
-        JOIN
-      </button>
-    </a>
-  </div>
-  
-  <div class="step" style="background: white; padding: 15px; margin: 15px 0; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h3 style="color: #333; margin-bottom: 10px;">3. JOIN WHATSAPP GROUP</h3>
-    <a href="https://chat.whatsapp.com/Lpg0aGi5Ar4Iy9Ix2wHgnN?mode=wwt" target="_blank">
-      <button style="background: transparent; color: #128C7E; border: 2px solid #128C7E; padding: 8px 15px; border-radius: 5px; cursor: pointer; width: 100px; font-weight: bold; transition: all 0.3s;">
-        JOIN
-      </button>
-    </a>
-  </div>
-  
-  <div class="step" style="background: white; padding: 15px; margin: 15px 0; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h3 style="color: #333; margin-bottom: 10px;">4. JOIN TELEGRAM GROUP SUPPORT</h3>
-    <a href="https://t.me/+ilRbENNCnN8wOWNk" target="_blank">
-      <button style="background: transparent; color: #0088cc; border: 2px solid #0088cc; padding: 8px 15px; border-radius: 5px; cursor: pointer; width: 100px; font-weight: bold; transition: all 0.3s;">
-        JOIN
-      </button>
-    </a>
-  </div>
-</div>
+<div class="readme-section" style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0; font-family: Arial, sans-serif;">
+    <h2 style="color: #333; text-align: center; margin-bottom: 20px;">Vinic-Xmd important links</h2>
+    
+    <h3 style="color: #666; text-align: center; margin-bottom: 25px;">Awesome Bot</h3>
 
+    <!-- 1. GET SESSION ID -->
+    <div style="background: white; padding: 15px; margin: 15px 0; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+        <h4 style="color: #333; margin-bottom: 10px; margin-top: 0;">1. GET SESSION ID</h4>
+        <a href="https://vinic-pairing-site.onrender.com/" target="_blank">
+            <button style="background: #28a745; color: white; border: none; padding: 10px 25px; border-radius: 5px; cursor: pointer; font-weight: bold; font-size: 14px;">
+                PAIR
+            </button>
+        </a>
+    </div>
+
+    <!-- 2. JOIN WHATSAPP CHANNEL -->
+    <div style="background: white; padding: 15px; margin: 15px 0; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+        <h4 style="color: #333; margin-bottom: 10px; margin-top: 0;">2. JOIN WHATSAPP CHANNEL</h4>
+        <a href="https://whatsapp.com/channel/0029Vb7VdNbIXnlhBiFjrt1B" target="_blank">
+            <button style="background: #25D366; color: white; border: none; padding: 10px 25px; border-radius: 5px; cursor: pointer; font-weight: bold; font-size: 14px;">
+                JOIN
+            </button>
+        </a>
+    </div>
+
+    <!-- 3. JOIN WHATSAPP GROUP -->
+    <div style="background: white; padding: 15px; margin: 15px 0; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+        <h4 style="color: #333; margin-bottom: 10px; margin-top: 0;">3. JOIN WHATSAPP GROUP</h4>
+        <a href="https://chat.whatsapp.com/Lpg0aGi5Ar4Iy9Ix2wHgnN?mode=wwt" target="_blank">
+            <button style="background: #128C7E; color: white; border: none; padding: 10px 25px; border-radius: 5px; cursor: pointer; font-weight: bold; font-size: 14px;">
+                JOIN
+            </button>
+        </a>
+    </div>
+
+    <!-- 4. JOIN TELEGRAM GROUP SUPPORT -->
+    <div style="background: white; padding: 15px; margin: 15px 0; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+        <h4 style="color: #333; margin-bottom: 10px; margin-top: 0;">4. JOIN TELEGRAM GROUP SUPPORT</h4>
+        <a href="https://t.me/+ilRbENNCnN8wOWNk" target="_blank">
+            <button style="background: #0088cc; color: white; border: none; padding: 10px 25px; border-radius: 5px; cursor: pointer; font-weight: bold; font-size: 14px;">
+                JOIN
+            </button>
+        </a>
+    </div>
+</div>
 
 ### 🚀 Fork the Repository
 

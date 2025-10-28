@@ -31,23 +31,43 @@ src="https://files.catbox.moe/ccvwdi.jpg">
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-<div class="links-section" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; color: white;">
-  <h3 style="color: #fff; text-align: center; margin-bottom: 20px;">🔗 Important Links</h3>
-  <div class="link-item" style="background: rgba(255,255,255,0.2); padding: 12px; margin: 10px 0; border-radius: 8px;">
-    <strong style="color: #ffeb3b;">📱 Session ID:</strong>
-    <a href="https://vinic-pairing-site.onrender.com/" target="_blank" style="color: #4fc3f7; text-decoration: none; margin-left: 10px;">Get Session ID</a>
+<div class="readme-section" style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <h2 style="color: #333; text-align: center; margin-bottom: 20px;">Vinic-Xmd important links.</h2>
+  
+  <div class="step" style="background: white; padding: 15px; margin: 15px 0; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <h3 style="color: #333; margin-bottom: 10px;">1. GET SESSION ID</h3>
+    <a href="https://vinic-pairing-site.onrender.com/" target="_blank">
+      <button style="background: #28a745; color: white; border: none; padding: 8px 15px; border-radius: 5px; cursor: pointer; width: 100px;">
+        PAIR
+      </button>
+    </a>
   </div>
-  <div class="link-item" style="background: rgba(255,255,255,0.2); padding: 12px; margin: 10px 0; border-radius: 8px;">
-    <strong style="color: #ffeb3b;">📢 WhatsApp Channel:</strong>
-    <a href="https://whatsapp.com/channel/0029Vb7VdNbIXnlhBiFjrt1B" target="_blank" style="color: #4fc3f7; text-decoration: none; margin-left: 10px;">Join our WhatsApp Channel</a>
+  
+  <div class="step" style="background: white; padding: 15px; margin: 15px 0; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <h3 style="color: #333; margin-bottom: 10px;">2. JOIN WHATSAPP CHANNEL</h3>
+    <a href="https://whatsapp.com/channel/0029Vb7VdNbIXnlhBiFjrt1B" target="_blank">
+      <button style="background: #25D366; color: white; border: none; padding: 8px 15px; border-radius: 5px; cursor: pointer; width: 100px;">
+        JOIN
+      </button>
+    </a>
   </div>
-  <div class="link-item" style="background: rgba(255,255,255,0.2); padding: 12px; margin: 10px 0; border-radius: 8px;">
-    <strong style="color: #ffeb3b;">👥 WhatsApp Group:</strong>
-    <a href="https://chat.whatsapp.com/Lpg0aGi5Ar4Iy9Ix2wHgnN?mode=wwt" target="_blank" style="color: #4fc3f7; text-decoration: none; margin-left: 10px;">Join WhatsApp Group</a>
+  
+  <div class="step" style="background: white; padding: 15px; margin: 15px 0; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <h3 style="color: #333; margin-bottom: 10px;">3. JOIN WHATSAPP GROUP</h3>
+    <a href="https://chat.whatsapp.com/Lpg0aGi5Ar4Iy9Ix2wHgnN?mode=wwt" target="_blank">
+      <button style="background: #25D366; color: white; border: none; padding: 8px 15px; border-radius: 5px; cursor: pointer; width: 100px;">
+        JOIN
+      </button>
+    </a>
   </div>
-  <div class="link-item" style="background: rgba(255,255,255,0.2); padding: 12px; margin: 10px 0; border-radius: 8px;">
-    <strong style="color: #ffeb3b;">💬 Telegram Support:</strong>
-    <a href="https://t.me/+ilRbENNCnN8wOWNk" target="_blank" style="color: #4fc3f7; text-decoration: none; margin-left: 10px;">Get Support on Telegram</a>
+  
+  <div class="step" style="background: white; padding: 15px; margin: 15px 0; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <h3 style="color: #333; margin-bottom: 10px;">4. JOIN TELEGRAM GROUP SUPPORT</h3>
+    <a href="https://t.me/+ilRbENNCnN8wOWNk" target="_blank">
+      <button style="background: #0088cc; color: white; border: none; padding: 8px 15px; border-radius: 5px; cursor: pointer; width: 100px;">
+        JOIN
+      </button>
+    </a>
   </div>
 </div>
 

@@ -30,11 +30,10 @@ src="https://files.catbox.moe/ccvwdi.jpg">
 <p align='center'>
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
 <div class="readme-section" style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0; font-family: Arial, sans-serif;">
-    <h2 style="color: #333; text-align: center; margin-bottom: 20px;">Vinic-Xmd important links</h2>
+    <h2 style="color: #333; text-align: center; margin-bottom: 20px;">README</h2>
     
-    <h3 style="color: #666; text-align: center; margin-bottom: 25px;">Awesome Bot</h3>
+    <h3 style="color: #666; text-align: center; margin-bottom: 25px;">SPACE</h3>
 
     <!-- 1. GET SESSION ID -->
     <div style="background: white; padding: 15px; margin: 15px 0; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
@@ -76,6 +75,7 @@ src="https://files.catbox.moe/ccvwdi.jpg">
         </a>
     </div>
 </div>
+
 
 ### 🚀 Fork the Repository
 

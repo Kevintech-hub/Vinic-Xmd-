@@ -31,17 +31,37 @@ src="https://files.catbox.moe/ccvwdi.jpg">
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-<div align="left">
-  <a href="https://vinic-pairing-site.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Server%20One-green?style=for-the-badge" alt="PAIR CODE"/>
-  </a>
-</div>
+<p align="center">
+    <strong>1. JOIN WHATSAPP GROUP</strong>
+  <br>
+    <a href="https://chat.whatsapp.com/Lpg0aGi5Ar4Iy9Ix2wHgnN?mode=wwt" target="_blank">
+        <img alt="Join now" src="https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue"/>
+    </a>
+</p>
 
-<div align="left">
-  <a href="https://vinic-pairing-site.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Server%20Two-darkgreen?style=for-the-badge" alt="PAIR CODE"/>
-  </a>
-</div>
+<p align="center">
+    <strong>2. GET SESSION ID</strong>
+    <br>
+    <a href="https://vinic-pairing-site.onrender.com/" target="_blank">
+        <img alt="WEBSITE" src="https://img.shields.io/badge/Pair-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
+    </a>
+</p>
+
+<p align="center">
+    <strong>3. JOIN WHATSAPP CHANNEL</strong>
+    <br>
+    <a href="https://chat.whatsapp.com/Lpg0aGi5Ar4Iy9Ix2wHgnN?mode=wwt" target="_blank">
+        <img alt="Join" src="https://img.shields.io/badge/Deploy-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=purple&color=purple"/>
+    </a>
+</p>
+
+<p align="center">
+    <strong>4. JOIN TELEGRAM SUPPORT GROUP</strong>
+    <br>
+    <a href="https://t.me/+ilRbENNCnN8wOWNk" target="_blank">
+        <img alt="Join group" src="https://img.shields.io/badge/Download-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
+    </a>
+</p>
 
 > 📥 Quickly connect your WhatsApp by generating a secure pairing code: if inbuilt pairing not working..
 

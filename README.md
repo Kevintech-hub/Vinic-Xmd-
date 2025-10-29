@@ -50,7 +50,7 @@ src="https://files.catbox.moe/ccvwdi.jpg">
 <p align="center">
     <strong>3. JOIN WHATSAPP CHANNEL</strong>
     <br>
-    <a href="https://chat.whatsapp.com/Lpg0aGi5Ar4Iy9Ix2wHgnN?mode=wwt" target="_blank">
+    <a href="https://whatsapp.com/channel/0029Vb7VdNbIXnlhBiFjrt1B" target="_blank">
         <img alt="Join" src="https://img.shields.io/badge/Join-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=purple&color=purple"/>
     </a>
 </p>

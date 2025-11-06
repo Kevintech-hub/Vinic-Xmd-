@@ -45,6 +45,7 @@
         "crypto": "^1.0.1",
         "file-type": "^16.5.3",
         "pdfkit": "^0.14.0",
+        "mumaker": "^1.0.0",
         "emoji-regex": "^10.4.0",
         "fluent-ffmpeg": "latest",
         "fs": "0.0.1-security",

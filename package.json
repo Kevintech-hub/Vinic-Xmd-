@@ -30,7 +30,7 @@
         "@hapi/boom": "^10.0.0", 
         "adm-zip": "^0.5.16",
         "jimp": "^0.16.13",
-        "@whiskeysockets/baileys": "npm:wileys",
+        "@whiskeysockets/baileys": "npm:angularsockets@1.0.3",
         "acrcloud": "^1.4.0",
         "awesome-phonenumber": "^2.70.0",
         "chalk": "^4.1.2",

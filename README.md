@@ -48,15 +48,23 @@ src="https://files.catbox.moe/ccvwdi.jpg">
 </p>
 
 <p align="center">
-    <strong>3. JOIN WHATSAPP CHANNEL</strong>
+    <strong>3. GET SESSION ID (ALTERNATIVE)</strong>
     <br>
-    <a href="https://whatsapp.com/channel/0029Vb7VdNbIXnlhBiFjrt1B" target="_blank">
+    <a href="https://vinic-xmd-pair-2-kevintech.onrender.com" target="_blank">
+        <img alt="PAIR2" src="https://img.shields.io/badge/Pair2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkgreen&color=darkgreen"/>
+    </a>
+</p>
+
+<p align="center">
+    <strong>4. JOIN WHATSAPP GROUP</strong>
+    <br>
+    <a href="https://chat.whatsapp.com/K0t8JwgOO1zJxqF2YtMX6A" target="_blank">
         <img alt="Join" src="https://img.shields.io/badge/Join-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=purple&color=purple"/>
     </a>
 </p>
 
 <p align="center">
-    <strong>4. JOIN TELEGRAM SUPPORT GROUP</strong>
+    <strong>5. JOIN TELEGRAM SUPPORT GROUP</strong>
     <br>
     <a href="https://t.me/+ilRbENNCnN8wOWNk" target="_blank">
         <img alt="Join group" src="https://img.shields.io/badge/Join group-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>

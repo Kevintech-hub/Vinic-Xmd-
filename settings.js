@@ -1,7 +1,7 @@
 // settings.js
 // credit by Kevin tech 
 
-const config = require('./setting/config');
+const config = require('./config');
 
 
 const settings = {
